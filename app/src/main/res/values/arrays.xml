@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+        <item>Калининград</item>
+        <item>Волгоград</item>
+    </string-array>
+
+    <integer-array name="coat_of_arms_imgs">
+        <item>@drawable/msc</item><!-- герб Москвы -->
+        <item>@drawable/spb</item><!-- герб Санкт-Петербурга -->
+        <item>@drawable/kzn</item><!-- герб Казани -->
+        <item>@drawable/kln</item><!-- герб Калнинграда -->
+        <item>@drawable/vlg</item><!-- герб Волгограда -->
+    </integer-array>
+
+</resources>
